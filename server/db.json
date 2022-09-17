@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "email": "testuser@mail.ru",
+      "password": "testpassword",
+      "username": "Developer",
+      "avatar": "https://icdn.lenta.ru/images/2021/04/27/16/20210427163138131/square_320_c09ebae17387b7d6eeb9fa0d42afe5ee.jpg",
+      "friendsList": [],
+      "id": 1
+    },
+    {
+      "email": "rickastley@mail.ru",
+      "password": "testpassword",
+      "username": "RickAstley",
+      "avatar": "https://i1.sndcdn.com/artworks-vvzLOTcGcLsYtztE-cneUyg-t500x500.jpg",
+      "friendsList": [],
+      "id": 2
+    },
+    {
+      "email": "testuser2@mail.ru",
+      "password": "testpassword",
+      "username": "TestUser2",
+      "avatar": "https://tableforchange.com/wp-content/uploads/2020/06/%D0%9E%D0%B1%D0%BE%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D0%B2%D0%BE%D1%87%D0%B5%D0%BA-%D0%BD%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD-12-%D0%BB%D0%B5%D1%82-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-16.jpg",
+      "friendsList": [],
+      "id": 3
+    },
+    {
+      "email": "testuser3@mail.ru",
+      "password": "testpassword",
+      "username": "TestUser3",
+      "avatar": "https://cs8.pikabu.ru/post_img/big/2016/02/04/7/145458292112119207.jpg",
+      "friendsList": [],
+      "id": 4
+    },
+    {
+      "email": "testuser4@mail.ru",
+      "password": "testpassword",
+      "username": "TestUser4",
+      "avatar": "https://www.iguides.ru/upload/medialibrary/9f8/9f8fdff471b7d281f81f694c100b5adc.png",
+      "friendsList": [],
+      "id": 5
+    },
+    {
+      "email": "testuser5@mail.ru",
+      "password": "testpassword",
+      "username": "TestUser5",
+      "avatar": "https://img3.akspic.ru/previews/9/6/1/9/6/169169/169169-ty_zasluzhivaesh_vsyacheskogo_schastya-schaste-strah-voda-polety_na_vozdushnom_share-500x.jpg",
+      "friendsList": [],
+      "id": 6
+    },
+    {
+      "email": "Junior@mail.ru",
+      "password": "testpassword",
+      "username": "JuniorDev",
+      "avatar": "https://img3.akspic.ru/previews/9/6/1/9/6/169169/169169-ty_zasluzhivaesh_vsyacheskogo_schastya-schaste-strah-voda-polety_na_vozdushnom_share-500x.jpg",
+      "friendsList": [],
+      "id": 7
+    },
+    {
+      "email": "middle@mail.ru",
+      "password": "testpassword",
+      "username": "MiddleDev",
+      "avatar": "https://img3.akspic.ru/previews/9/6/1/9/6/169169/169169-ty_zasluzhivaesh_vsyacheskogo_schastya-schaste-strah-voda-polety_na_vozdushnom_share-500x.jpg",
+      "friendsList": [],
+      "id": 8
+    },
+    {
+      "email": "senior@mail.ru",
+      "password": "testpassword",
+      "username": "SeniorDev",
+      "avatar": "https://img3.akspic.ru/previews/9/6/1/9/6/169169/169169-ty_zasluzhivaesh_vsyacheskogo_schastya-schaste-strah-voda-polety_na_vozdushnom_share-500x.jpg",
+      "friendsList": [],
+      "id": 9
+    }
+  ]
+}
