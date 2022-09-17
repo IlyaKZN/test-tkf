@@ -3,7 +3,9 @@
 ## Запуск приложения:
 * Версия Node.js `v16.14.2`
 * Cклонировать локальный репозиторий командой:  
-  `git -clone https://github.com/IlyaKZN/test-tkf`
+  `git clone https://github.com/IlyaKZN/test-tkf`
+* Перейти в репозиторий командой:  
+  `cd test-tkf`
 * Установить зависимости командой:  
   `npm install`
 * В одном окне терминала запустить сервер командой:  
